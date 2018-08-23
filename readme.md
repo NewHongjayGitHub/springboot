@@ -1,0 +1,4 @@
+- 这是springbot 2.0版本的整合ssm框架的一个demo，有springmvc的基础再来看springBoot还是很简单的，配置十分方便
+- 加入了mybatis的generator自动生成代码和example表达式
+- 加入了pagehelper
+- 需要修改配置文件里面的数据库信息以及generator配置文件的数据库信息
